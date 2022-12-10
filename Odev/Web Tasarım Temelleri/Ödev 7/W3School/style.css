@@ -63,6 +63,15 @@ div.clearfix{
     overflow: auto;
 }
 
+img.opacity{
+    opacity: 0.3;
+}
+
+input.tasit{
+    accent-color: green;
+}
+
+
 
 
 

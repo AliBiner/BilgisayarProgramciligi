@@ -1,0 +1,30 @@
+C:\Users\Alo\source\repos\CokluVeriGirdisineGoreSıralama\CokluVeriGirdisineGoreSıralama\bin\Debug\net6.0\CokluVeriGirdisineGoreSıralama.exe
+C:\Users\Alo\source\repos\CokluVeriGirdisineGoreSıralama\CokluVeriGirdisineGoreSıralama\bin\Debug\net6.0\CokluVeriGirdisineGoreSıralama.deps.json
+C:\Users\Alo\source\repos\CokluVeriGirdisineGoreSıralama\CokluVeriGirdisineGoreSıralama\bin\Debug\net6.0\CokluVeriGirdisineGoreSıralama.runtimeconfig.json
+C:\Users\Alo\source\repos\CokluVeriGirdisineGoreSıralama\CokluVeriGirdisineGoreSıralama\bin\Debug\net6.0\CokluVeriGirdisineGoreSıralama.dll
+C:\Users\Alo\source\repos\CokluVeriGirdisineGoreSıralama\CokluVeriGirdisineGoreSıralama\bin\Debug\net6.0\CokluVeriGirdisineGoreSıralama.pdb
+C:\Users\Alo\source\repos\CokluVeriGirdisineGoreSıralama\CokluVeriGirdisineGoreSıralama\obj\Debug\net6.0\CokluVeriGirdisineGoreSıralama.csproj.AssemblyReference.cache
+C:\Users\Alo\source\repos\CokluVeriGirdisineGoreSıralama\CokluVeriGirdisineGoreSıralama\obj\Debug\net6.0\CokluVeriGirdisineGoreSıralama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alo\source\repos\CokluVeriGirdisineGoreSıralama\CokluVeriGirdisineGoreSıralama\obj\Debug\net6.0\CokluVeriGirdisineGoreSıralama.AssemblyInfoInputs.cache
+C:\Users\Alo\source\repos\CokluVeriGirdisineGoreSıralama\CokluVeriGirdisineGoreSıralama\obj\Debug\net6.0\CokluVeriGirdisineGoreSıralama.AssemblyInfo.cs
+C:\Users\Alo\source\repos\CokluVeriGirdisineGoreSıralama\CokluVeriGirdisineGoreSıralama\obj\Debug\net6.0\CokluVeriGirdisineGoreSıralama.csproj.CoreCompileInputs.cache
+C:\Users\Alo\source\repos\CokluVeriGirdisineGoreSıralama\CokluVeriGirdisineGoreSıralama\obj\Debug\net6.0\CokluVeriGirdisineGoreSıralama.dll
+C:\Users\Alo\source\repos\CokluVeriGirdisineGoreSıralama\CokluVeriGirdisineGoreSıralama\obj\Debug\net6.0\refint\CokluVeriGirdisineGoreSıralama.dll
+C:\Users\Alo\source\repos\CokluVeriGirdisineGoreSıralama\CokluVeriGirdisineGoreSıralama\obj\Debug\net6.0\CokluVeriGirdisineGoreSıralama.pdb
+C:\Users\Alo\source\repos\CokluVeriGirdisineGoreSıralama\CokluVeriGirdisineGoreSıralama\obj\Debug\net6.0\CokluVeriGirdisineGoreSıralama.genruntimeconfig.cache
+C:\Users\Alo\source\repos\CokluVeriGirdisineGoreSıralama\CokluVeriGirdisineGoreSıralama\obj\Debug\net6.0\ref\CokluVeriGirdisineGoreSıralama.dll
+C:\Users\Alo\Desktop\Bilgisayar Programcılığı\Ödev\Algoritma\Hafta 3\Çok Verili Algoritma\CokluVeriGirdisineGoreSıralama\CokluVeriGirdisineGoreSıralama\bin\Debug\net6.0\CokluVeriGirdisineGoreSıralama.exe
+C:\Users\Alo\Desktop\Bilgisayar Programcılığı\Ödev\Algoritma\Hafta 3\Çok Verili Algoritma\CokluVeriGirdisineGoreSıralama\CokluVeriGirdisineGoreSıralama\bin\Debug\net6.0\CokluVeriGirdisineGoreSıralama.deps.json
+C:\Users\Alo\Desktop\Bilgisayar Programcılığı\Ödev\Algoritma\Hafta 3\Çok Verili Algoritma\CokluVeriGirdisineGoreSıralama\CokluVeriGirdisineGoreSıralama\bin\Debug\net6.0\CokluVeriGirdisineGoreSıralama.runtimeconfig.json
+C:\Users\Alo\Desktop\Bilgisayar Programcılığı\Ödev\Algoritma\Hafta 3\Çok Verili Algoritma\CokluVeriGirdisineGoreSıralama\CokluVeriGirdisineGoreSıralama\bin\Debug\net6.0\CokluVeriGirdisineGoreSıralama.dll
+C:\Users\Alo\Desktop\Bilgisayar Programcılığı\Ödev\Algoritma\Hafta 3\Çok Verili Algoritma\CokluVeriGirdisineGoreSıralama\CokluVeriGirdisineGoreSıralama\bin\Debug\net6.0\CokluVeriGirdisineGoreSıralama.pdb
+C:\Users\Alo\Desktop\Bilgisayar Programcılığı\Ödev\Algoritma\Hafta 3\Çok Verili Algoritma\CokluVeriGirdisineGoreSıralama\CokluVeriGirdisineGoreSıralama\obj\Debug\net6.0\CokluVeriGirdisineGoreSıralama.csproj.AssemblyReference.cache
+C:\Users\Alo\Desktop\Bilgisayar Programcılığı\Ödev\Algoritma\Hafta 3\Çok Verili Algoritma\CokluVeriGirdisineGoreSıralama\CokluVeriGirdisineGoreSıralama\obj\Debug\net6.0\CokluVeriGirdisineGoreSıralama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alo\Desktop\Bilgisayar Programcılığı\Ödev\Algoritma\Hafta 3\Çok Verili Algoritma\CokluVeriGirdisineGoreSıralama\CokluVeriGirdisineGoreSıralama\obj\Debug\net6.0\CokluVeriGirdisineGoreSıralama.AssemblyInfoInputs.cache
+C:\Users\Alo\Desktop\Bilgisayar Programcılığı\Ödev\Algoritma\Hafta 3\Çok Verili Algoritma\CokluVeriGirdisineGoreSıralama\CokluVeriGirdisineGoreSıralama\obj\Debug\net6.0\CokluVeriGirdisineGoreSıralama.AssemblyInfo.cs
+C:\Users\Alo\Desktop\Bilgisayar Programcılığı\Ödev\Algoritma\Hafta 3\Çok Verili Algoritma\CokluVeriGirdisineGoreSıralama\CokluVeriGirdisineGoreSıralama\obj\Debug\net6.0\CokluVeriGirdisineGoreSıralama.csproj.CoreCompileInputs.cache
+C:\Users\Alo\Desktop\Bilgisayar Programcılığı\Ödev\Algoritma\Hafta 3\Çok Verili Algoritma\CokluVeriGirdisineGoreSıralama\CokluVeriGirdisineGoreSıralama\obj\Debug\net6.0\CokluVeriGirdisineGoreSıralama.dll
+C:\Users\Alo\Desktop\Bilgisayar Programcılığı\Ödev\Algoritma\Hafta 3\Çok Verili Algoritma\CokluVeriGirdisineGoreSıralama\CokluVeriGirdisineGoreSıralama\obj\Debug\net6.0\refint\CokluVeriGirdisineGoreSıralama.dll
+C:\Users\Alo\Desktop\Bilgisayar Programcılığı\Ödev\Algoritma\Hafta 3\Çok Verili Algoritma\CokluVeriGirdisineGoreSıralama\CokluVeriGirdisineGoreSıralama\obj\Debug\net6.0\CokluVeriGirdisineGoreSıralama.pdb
+C:\Users\Alo\Desktop\Bilgisayar Programcılığı\Ödev\Algoritma\Hafta 3\Çok Verili Algoritma\CokluVeriGirdisineGoreSıralama\CokluVeriGirdisineGoreSıralama\obj\Debug\net6.0\CokluVeriGirdisineGoreSıralama.genruntimeconfig.cache
+C:\Users\Alo\Desktop\Bilgisayar Programcılığı\Ödev\Algoritma\Hafta 3\Çok Verili Algoritma\CokluVeriGirdisineGoreSıralama\CokluVeriGirdisineGoreSıralama\obj\Debug\net6.0\ref\CokluVeriGirdisineGoreSıralama.dll

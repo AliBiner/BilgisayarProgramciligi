@@ -1,0 +1,68 @@
+p.a1{
+    border-style: dotted;
+    border: 5px 20px;
+    border-color: red green blue yellow;
+    border-left: solid yellow;
+    border-radius: 30px;
+
+}
+
+p.a2{
+    margin: 0px 50px 75px;
+}
+
+p.a3{
+    padding: 25px 0px 75px;
+}
+
+p.a4{
+    width: 500px;
+    background-color: aqua;
+}
+div.a5{
+    width: 500px;
+    height: 100px;
+    box-sizing: border-box;
+    background-color: aquamarine;
+}
+p.a5{
+    text-align: center;
+    padding-top: 8%;
+}
+
+p.a6{
+    outline-style: double;
+    outline-width: 10px;
+    outline-color: blueviolet;
+    outline-offset: 10px;
+
+}
+
+div.static{
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 300px;
+    border: 3px solid black;
+}
+
+div.overflow{
+    width: 200px;
+    height: 100px;
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
+
+div.img img{
+    width: 100px;
+    height: 100px;
+    float: right;
+}
+
+div.clearfix{
+    overflow: auto;
+}
+
+
+
+

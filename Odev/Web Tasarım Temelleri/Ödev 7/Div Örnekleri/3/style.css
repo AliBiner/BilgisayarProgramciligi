@@ -1,0 +1,32 @@
+div.main{
+    margin: 100px;
+    width: 500px;
+    height: 500px;
+}
+div.sol{
+    width: 40%;
+    height: 100%;
+    float: left;
+    background-color: aqua;
+}
+div.sag{
+    width: 60%;
+    height: 100%;
+    float: left;
+}
+
+div.sag_ust{
+    width: 100%;
+    height: 40%;
+    background-color: green;
+}
+div.sag_orta{
+    width: 100%;
+    height: 20%;
+    background-color: orange;
+}
+div.sag_alt{
+    width: 100%;
+    height: 40%;
+    background-color: purple;
+}
